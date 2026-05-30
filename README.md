@@ -1,19 +1,19 @@
-# SuperstoreSalesPerformance
+## SuperstoreSalesPerformance
 
-# Use Kaggle dataset:
+## Use Kaggle dataset:
 - Sample Superstore Dataset (Kaggle)
 
-# Business Problem
+## Business Problem
 - A retail company wants to understand its sales performance and profitability.
 
-# Management needs answers to:
+## Management needs answers to:
 - Which products generate the most sales?
 - Which products generate the most profit?
 - Which regions perform best?
 - Which categories should receive more investment?
 - Which products are losing money?
 
-Identify opportunities to increase profit and improve business performance.
+## Identify opportunities to increase profit and improve business performance.
 - Key Business Questions
 - Sales Overview
 - What are total sales?
