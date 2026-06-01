@@ -1,7 +1,7 @@
 ## SuperstoreSalesPerformance
 
 ### Summary
-- Projeto end-to-end de dados utilizando uma base de retail, envolvendo ingestão, tratamento e transformação de dados no Databricks, modelagem de dados com SQL, versionamento com Git e criação de dashboards no Power BI. O objetivo é gerar insights estratégicos e indicadores de desempenho para apoiar a tomada de decisão baseada em dados.
+End-to-end data project using a retail dataset, covering data ingestion, cleansing, and transformation in Databricks, data modeling with SQL, version control with Git, and dashboard development in Power BI. The project aims to generate strategic insights and key performance indicators (KPIs) to support data-driven decision-making.
 
 ### Business Problem
 - A retail company wants to understand its sales performance and profitability.
