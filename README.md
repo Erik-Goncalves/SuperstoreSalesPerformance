@@ -12,3 +12,6 @@ End-to-end data project using a retail dataset, covering data ingestion, cleansi
 - Which regions perform best?
 - Which categories should receive more investment?
 - Which products are losing money?
+
+### Result 
+![image_1780505346856.png](./image_1780505346856.png "image_1780505346856.png")
