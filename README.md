@@ -8,10 +8,15 @@ End-to-end data project using a retail dataset, covering data ingestion, cleansi
 
 ### Management needs answers to:
 - Which products generate the most sales?
-- Which products generate the most profit?
-- Which regions perform best?
-- Which categories should receive more investment?
-- Which products are losing money?
+- Which customer generate the most sales?
+- Which city perform best with sales most 20.000?
 
 ### Result 
+##1
+![image_1780505693860.png](./image_1780505693860.png "image_1780505693860.png")
+
+##2
 ![image_1780505346856.png](./image_1780505346856.png "image_1780505346856.png")
+
+##3
+![image_1780506300683.png](./image_1780506300683.png "image_1780506300683.png")
